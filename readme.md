@@ -16,7 +16,7 @@ Learnt  about `DOM Structure` ,effective implementation of `Postion Property` an
 some of `pseudo-selectors` like `before` and `after`.
 
 ## Deployed Link
- [click here to see deployed version](https://street-style-link.netlify.app/ "Click to Visit Link") 
+ [click here to see deployed version](https://crypto-homepage-link.netlify.app/ "Click to Visit Link") 
 
 
 ## Screenshots
